@@ -1,0 +1,46 @@
+
+
+.container{
+    height: 380px;
+    width: 800px;
+    margin: auto;
+    display: block;
+    align-items: center;
+    justify-content:center ;
+    padding: 20px;
+    border: 5px black solid;
+}
+.circle1{
+    margin-top: 20px;
+    background-color: yellow;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: inline-block;
+     justify-content: end;
+     border: 3px black solid;  
+}
+.circle2{
+    margin-top: 20px;
+    background-color: blue;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 3px black solid;
+
+}.circle3{
+    margin-top: 20px;
+    background-color:red;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 3px black solid;
+
+}.circle4{
+    margin-top: 20px;
+    background-color: green;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 3px black solid;
+}

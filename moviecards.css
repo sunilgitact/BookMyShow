@@ -1,0 +1,186 @@
+
+.imgrecomm{
+   
+    width: 16vw;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.mainCardBox{
+    margin-left: 60px;
+    margin-top: 0px;
+    display: flex;
+}
+
+#RecommendedMovies{
+    margin-top: 40px;
+    font-size: 23px;
+    font-weight: 700;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+#addslikeImg{
+    width: 90%;
+    margin-left: 60px;
+    margin-top: 90px;
+    
+}
+
+
+.miniCards{
+    display: flex;
+    margin-left: 20px;
+}
+
+#bestentimg{
+    border-radius: 10px;
+    margin-left: 30px;
+    height: 35vh;
+}
+
+#EntertainmentText{
+    margin-top: 80px;
+    font-size: 23px;
+    font-weight: 700;
+    margin-left: 60px;
+    margin-bottom: 18px;
+
+}
+
+.footer{
+    
+    margin: auto;
+    background-color: rgb(26, 28, 46);
+    height: 500px;
+    width: 100vw;   
+}
+
+
+.miniFooter{
+    display: flex;
+    margin-left: 60px;
+}
+
+#footerimg{
+    height: 310px;
+    border-radius: 10px;
+    padding-right: 35px;
+    margin-right: 5px;
+    
+}
+
+#PayAdds{
+    width: 100vw;
+    margin-top: 60px;
+}
+
+
+#Premiers{
+    color: white;
+    margin-left: 60px;
+    padding-top: 30px;
+    font-size: 28px;
+    margin-bottom: 0%;
+}
+
+
+#FridayShow{
+    color: white;
+    margin-left: 60px;
+    margin-bottom: 5px;
+
+}
+
+.EventCards{
+    margin-left: 60px;
+   margin-bottom: 60px;
+    display: flex;
+   
+
+}
+
+#Eventimg{
+    margin-right: 27px;
+    height: 370px;
+    border-radius: 10px;
+}
+
+#EventText{
+    margin-top: 50px;
+    font-size: 24px;
+    margin-left: 60px;
+    font-weight: 700;
+
+}
+
+
+#MovieNames{
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+#EventAdress{
+    color: rgb(101, 102, 104);
+}
+
+
+#AboutMainBox{
+    background-repeat: no-repeat;
+    background: url('https://assets-in.bmscdn.com/webin/static/aboutus/bg.jpg');
+    height: 100vh;
+    width: 100%; 
+    background-size: contain;
+    padding: 10%;   
+}
+
+#AboutText1{
+    color: white;
+    font-size: 30px;
+}
+
+#AboutText2{
+    color: white;
+    font-weight: bolder;
+    font-size: 80px;
+}
+
+
+#GoBackBtn{
+    background-color:rgb(250, 59, 91);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 29px;
+   margin-top: 5px;
+   margin-left: 50px;
+}
+
+
+#EventLink{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+}
+
+
+#headingms{
+    /* background: linear-gradient(black, white); */
+    background-image: linear-gradient( #ee9ca7,#ffdde1);
+    padding: 10px;
+    padding-top: 30px;
+    height: 100px;
+    margin-top: 50px;
+    font-weight: 600;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-bottom: 40px;
+    font-weight: 700;
+    color: rgb(61, 7, 7);
+}
+

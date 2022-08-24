@@ -1,0 +1,52 @@
+#moviename{
+    width: 750px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: large;
+}
+
+#Api-Search-btn{
+    
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: large;
+    border: none;
+    margin-left: -125px;
+    background-color:rgb(250, 59, 91);
+    color: white;
+}
+
+#Api-Search-btn:focus{
+    border: none;
+}
+
+tr{
+    display: inline;
+}
+
+#api-card{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-left: 20px;
+    height: 400px;
+    padding: 20px;    
+}
+
+#tbody{
+
+    margin-left: -100px;
+    height: 100vh;
+    display: flex;
+}
+
+#title{
+    font-size: 22px;
+}
+
+#Year{
+    font-size: 18px;
+}
